@@ -5,6 +5,7 @@ public class NumberValidator {
     public static final int MIN_THREE_DIGIT_NUMBER = 100;
 
     public boolean isThreeDigitNumber(int number) {
+        number = Math.abs(number);
         boolean isMoreThanMin = number >= MIN_THREE_DIGIT_NUMBER;
         boolean isLessThanMax = number <= MAX_THREE_DIGIT_NUMBER;
         return isLessThanMax && isMoreThanMin;

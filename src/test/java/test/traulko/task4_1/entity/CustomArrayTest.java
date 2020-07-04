@@ -49,8 +49,8 @@ public class CustomArrayTest {
 
     @Test(dataProvider = "setPositiveData")
     public void setPositiveTest(CustomArray actual, int index, int value, CustomArray expected) {
-            actual.set(value, index);
-            assertEquals(actual, expected);
+        actual.set(value, index);
+        assertEquals(actual, expected);
     }
 
     @DataProvider(name = "setNegativeData")

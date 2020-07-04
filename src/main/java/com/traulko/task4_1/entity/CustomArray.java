@@ -1,12 +1,12 @@
 package com.traulko.task4_1.entity;
 
 public class CustomArray {
-    private static final int [] DEFAULTCAPACITY_EMPTY_ELEMENTDATA = {};
+    private static final int[] DEFAULTCAPACITY_EMPTY_ELEMENTDATA = {};
     private static final int DEFAULT_CAPACITY = 10;
 
-    private int [] array;
+    private int[] array;
 
-    public CustomArray (int [] array) {
+    public CustomArray(int[] array) {
         this.array = array;
     }
 
@@ -17,11 +17,9 @@ public class CustomArray {
     public CustomArray(int capacity) {
         if (capacity == 0) {
             this.array = DEFAULTCAPACITY_EMPTY_ELEMENTDATA;
-        }
-        else if (capacity > 0) {
+        } else if (capacity > 0) {
             this.array = new int[capacity];
-        }
-        else {
+        } else {
             this.array = new int[DEFAULT_CAPACITY];
         }
     }

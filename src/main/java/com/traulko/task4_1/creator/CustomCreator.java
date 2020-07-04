@@ -30,7 +30,7 @@ public class CustomCreator {
         int[] numbers = consoleReader.readArraySize(size);
         InputStream currentElement;
         for (int i = 0; i < numbers.length; i++) {
-            currentElement =  new ByteArrayInputStream(ELEMENTS[i].getBytes());
+            currentElement = new ByteArrayInputStream(ELEMENTS[i].getBytes());
             numbers[i] = consoleReader.readArrayElement(i, currentElement);
         }
         return new CustomArray(numbers);

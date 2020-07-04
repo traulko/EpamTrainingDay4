@@ -1,62 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="785411dd-b894-40fe-b0df-a2500ec2cdec" name="Default Changelist" comment="" />
+    <list default="true" id="785411dd-b894-40fe-b0df-a2500ec2cdec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/creator/CustomCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/creator/CustomCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/entity/CustomArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/entity/CustomArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/service/SearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/service/SelectService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/service/SelectService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/service/SortService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/service/SortService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/validator/NumberValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/traulko/task4_1/validator/NumberValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/traulko/task4_1/entity/CustomArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/traulko/task4_1/entity/CustomArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/traulko/task4_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/traulko/task4_1/service/SearchService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/traulko/task4_1/service/SearchService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/traulko/task4_1/service/SelectService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/traulko/task4_1/service/SelectService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/traulko/task4_1/service/SortService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/traulko/task4_1/service/SortService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/traulko/task4_1/validator/NumberValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/traulko/task4_1/validator/NumberValidator.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1e0rZ5i1aTMjchyinq36sAtXXC6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="0d570cb2-96df-43cc-80da-7f777e6d0afe" />
   </component>
-  <component name="RunManager" selected="TestNG.CustomArrayTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.traulko.task4_1.Main" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.traulko.task4_2.validator" />
+      <recent name="test.traulko.task4_2.service" />
+      <recent name="test.traulko.task4_1.validator" />
+      <recent name="test.traulko.task4_1.service" />
+      <recent name="com.traulko.task4_1.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.traulko.task4_2.exception" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\epamday4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.JaggedArrayServiceTest.bubbleSortSumElementReversedNegativeTest">
+    <configuration name="JaggedArrayServiceTest.bubbleSortMaxElementReversedNegativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="epamday4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.traulko.task4_1.*" />
+          <option name="PATTERN" value="test.traulko.task4_2.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomArrayTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="epamday4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.traulko.task4_1.entity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.traulko.task4_1.entity" />
-      <option name="MAIN_CLASS_NAME" value="test.traulko.task4_1.entity.CustomArrayTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="test.traulko.task4_2.service" />
+      <option name="MAIN_CLASS_NAME" value="test.traulko.task4_2.service.JaggedArrayServiceTest" />
+      <option name="METHOD_NAME" value="bubbleSortMaxElementReversedNegativeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomCreatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="JaggedArrayServiceTest.bubbleSortSumElementNegativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="epamday4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.traulko.task4_1.creator.*" />
+          <option name="PATTERN" value="test.traulko.task4_2.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.traulko.task4_1.creator" />
-      <option name="MAIN_CLASS_NAME" value="test.traulko.task4_1.creator.CustomCreatorTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="test.traulko.task4_2.service" />
+      <option name="MAIN_CLASS_NAME" value="test.traulko.task4_2.service.JaggedArrayServiceTest" />
+      <option name="METHOD_NAME" value="bubbleSortSumElementNegativeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JaggedArrayServiceTest.bubbleSortSumElementPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="epamday4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.traulko.task4_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.traulko.task4_2.service" />
+      <option name="MAIN_CLASS_NAME" value="test.traulko.task4_2.service.JaggedArrayServiceTest" />
+      <option name="METHOD_NAME" value="bubbleSortSumElementPositiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JaggedArrayServiceTest.bubbleSortSumElementReversedNegativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="epamday4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.traulko.task4_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.traulko.task4_2.service" />
+      <option name="MAIN_CLASS_NAME" value="test.traulko.task4_2.service.JaggedArrayServiceTest" />
+      <option name="METHOD_NAME" value="bubbleSortSumElementReversedNegativeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JaggedArrayServiceTest.bubbleSortSumElementReversedPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="epamday4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.traulko.task4_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.traulko.task4_2.service" />
+      <option name="MAIN_CLASS_NAME" value="test.traulko.task4_2.service.JaggedArrayServiceTest" />
+      <option name="METHOD_NAME" value="bubbleSortSumElementReversedPositiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -65,9 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CustomArrayTest" />
-        <item itemvalue="TestNG.CustomCreatorTest" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.JaggedArrayServiceTest.bubbleSortSumElementReversedNegativeTest" />
+        <item itemvalue="TestNG.JaggedArrayServiceTest.bubbleSortSumElementNegativeTest" />
+        <item itemvalue="TestNG.JaggedArrayServiceTest.bubbleSortSumElementReversedPositiveTest" />
+        <item itemvalue="TestNG.JaggedArrayServiceTest.bubbleSortSumElementPositiveTest" />
+        <item itemvalue="TestNG.JaggedArrayServiceTest.bubbleSortMaxElementReversedNegativeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -81,34 +184,112 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593469404031</updated>
-      <workItem from="1593469409125" duration="1000" />
+      <workItem from="1593469409125" duration="794000" />
+      <workItem from="1593599292163" duration="16738000" />
+      <workItem from="1593690893527" duration="9264000" />
+      <workItem from="1593792724636" duration="1350000" />
+      <workItem from="1593895544462" duration="4651000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="399" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593469467073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="399" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1593469467073" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593469591676">
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593699323442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593469591676" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593469591676">
+    <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1593699323442" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593779839601">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593469591676" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593469591675">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593779839601" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593901152837">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593469591675" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593469591676">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593901152837" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593901152837">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593469591676" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593901152837" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593901152837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593901152837" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593901152837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593901152837" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593901014985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593901014985" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593901014985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593901014985" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593901014984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593901014984" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593901014985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593901014985" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1593469502736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1593469502736" />
+    <state x="357" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593897204434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="357" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593897204434" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593604470805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1593604470805" />
+    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593897837897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1593897837897" />
+    <state x="209" y="32" key="new project wizard" timestamp="1593779864378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593779864378" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/traulko/task4_1/service/SearchServiceTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/traulko/task4_1/service/SelectService.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/traulko/task4_1/service/SortService.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/traulko/task4_2/service/JaggedArrayServiceTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day4$SortServiceTest_bubbleSortPositiveTest.ic" NAME="SortServiceTest.bubbleSortPositiveTest Coverage Results" MODIFIED="1593615814068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.traulko.task4_1.service.*</FILTER>
+    </SUITE>
   </component>
 </project>

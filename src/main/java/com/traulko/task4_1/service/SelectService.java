@@ -40,7 +40,7 @@ public class SelectService {
             }
         }
 
-        int [] fibonacciNumbers = new int[fibonacciNumbersArraySize];
+        int[] fibonacciNumbers = new int[fibonacciNumbersArraySize];
         int currentFibonacciNumbersIndex = 0;
         for (int i = 0; i < array.length(); i++) {
             if (isFibonacciNumber(array.get(i))) {
@@ -61,11 +61,13 @@ public class SelectService {
         for (int i = 0; i < array.length(); i++) {
             currentNumber = array.get(i);
             if (numberValidator.isThreeDigitNumber(currentNumber)) {
-                numberArraySize++;
+                if (isUniqueDigits(currentNumber)) {
+                    numberArraySize++;
+                }
             }
         }
 
-        int [] threeUniqueDigitsNumbers = new int[numberArraySize];
+        int[] threeUniqueDigitsNumbers = new int[numberArraySize];
         int currentThreeUniqueDigitsNumbersIndex = 0;
         for (int i = 0; i < array.length(); i++) {
             currentNumber = array.get(i);
@@ -83,8 +85,7 @@ public class SelectService {
         boolean result = true;
         if (number <= 0) {
             result = false;
-        }
-        else {
+        } else {
             for (int i = 2; i < number; i++) {
                 if (number % i == 0) {
                     result = false;
@@ -132,7 +133,7 @@ public class SelectService {
         }
 
         int modulo;
-        int [] digitArray = new int [digitsCount];
+        int[] digitArray = new int[digitsCount];
         int currentIndex = 0;
         for (int i = number; i > 0; i /= 10) {
             modulo = i % 10;

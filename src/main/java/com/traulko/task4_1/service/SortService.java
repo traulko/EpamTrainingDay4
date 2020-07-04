@@ -67,8 +67,8 @@ public class SortService {
         }
         int firstNumber = array.get(firstIndex);
         int secondNumber = array.get(secondIndex);
-        array.set(firstIndex, secondNumber);
-        array.set(secondIndex, firstNumber);
+        array.set(secondNumber, firstIndex);
+        array.set(firstNumber, secondIndex);
     }
 
     private void reverse(CustomArray array) throws IncorrectValueException {
